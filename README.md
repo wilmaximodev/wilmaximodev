@@ -5,10 +5,7 @@
 <table>
   <tr>
     <td>
-      <img
-        align="left"
         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev&show_icons=true&theme=dark)
-        alt="Github Stats"
       />
     </td>
     <td>
