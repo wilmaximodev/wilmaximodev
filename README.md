@@ -3,10 +3,8 @@
 ### ⚙️ GitHub Analytics
 
 <table>
-    <p>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev&show_icons=true&theme=dark)
-    </p>
-  <tr>
+   [ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev&show_icons=true&theme=dark)
+      <tr>
     <td>
       <img
         align="left"
