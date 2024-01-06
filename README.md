@@ -7,7 +7,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=wilmaximodev&theme=dark&hide_border=false&include_all_commits=true"
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev&show_icons=true&theme=dark)
         alt="Github Stats"
       />
     </td>
@@ -31,7 +31,6 @@
 
 --- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### 🏆 GitHub Profile Trophy
 
@@ -46,5 +45,3 @@
     />
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev)](https://github.com/anuraghazra/github-readme-stats)
