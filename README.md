@@ -4,9 +4,7 @@
 
 <table>
   <tr>
-    <td>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev&show_icons=true&theme=dark)
-    </td>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmaximodev&show_icons=true&theme=dark)
     <td>
       <img
         align="left"
