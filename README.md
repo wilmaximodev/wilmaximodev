@@ -1,4 +1,4 @@
-## Olá, meu nome é Wilson! Desenvolvedor FullStack.
+## Olá, meu nome é Wilson!
 
 ### ⚙️ GitHub Analytics
 
